@@ -1,6 +1,5 @@
 # liff-businesscard
 
-linedm-test
 
 A Bussiness Card For LINE Using LINE Front-end Framework (LIFF) API.
 

@@ -7,7 +7,7 @@ function vcardUuid (vcard, secret) {
 function gaScreenView (vcard) {
   const CARD_NAME = 'Facebook分享連結-2020/09/18'
   return `https://www.google-analytics.com/collect?${Qs.stringify({
-    an: 'LINE 數位版名片',
+    an: 'LINE 數位版傳單',
     cd: `${CARD_NAME}-${vcard.title}`, // 畫面名稱，在此用來紀錄數位版名片的版本
     cid: vcardUuid(vcard, CARD_NAME), // uuid
     ds: 'app', // 資料來源，填寫為 app

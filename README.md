@@ -1,5 +1,5 @@
 # liff-businesscard
-
+<此版本為線上傳單,企劃專案使用>
 
 A Bussiness Card For LINE Using LINE Front-end Framework (LIFF) API.
 

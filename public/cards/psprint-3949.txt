@@ -109,6 +109,14 @@ function gaScreenView (vcard) {
               "uri": "${vcard.url}"
             }
           },
+           {
+            "align": "end",
+            "size": "sm",
+            "text": "${vcard.vat}",
+            "type": "text",
+          
+            }
+          },
           {
             "height": "1px",
             "layout": "vertical",
@@ -128,7 +136,7 @@ function gaScreenView (vcard) {
                 "url": "${gaScreenView(vcard)}"
               }
             ]
-          }
+          }          
         ]
       }
     ]

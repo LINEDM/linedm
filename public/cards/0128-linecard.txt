@@ -8,7 +8,7 @@
         "type": "image",
         "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES-2.jpg",
         "size": "full",
-        "aspectMode": "cover",
+        "aspectMode": "fit",
         "aspectRatio": "2:1",
         "gravity": "center"
       },

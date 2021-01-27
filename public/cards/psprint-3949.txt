@@ -113,8 +113,7 @@ function gaScreenView (vcard) {
             "align": "end",
             "size": "sm",
             "text": "${vcard.vat}",
-            "type": "text",
-          
+            "type": "text"
             }
           },
           {

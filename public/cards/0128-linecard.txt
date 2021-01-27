@@ -50,9 +50,16 @@
                   },
                   {
                     "type": "text",
+                    "size": "lg",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
                     "text": "專案經理人",
                     "size": "xs",
-                    "color": "#ffffff",
+                    "color": "#BBBBBB",
                     "align": "end"
                   },
                   {
@@ -72,7 +79,13 @@
                     "type": "text",
                     "text": "0973158857",
                     "color": "#FFFFFF",
-                    "align": "end"
+                    "align": "end",
+                    "size": "lg",
+                    "action": {
+                      "type": "postback",
+                      "label": "action",
+                      "data": "tle"
+                    }
                   }
                 ],
                 "spacing": "xs"
@@ -93,11 +106,16 @@
                       },
                       {
                         "type": "text",
-                        "text": "高雄市前鎮區三多三路217號13樓",
+                        "text": "◈高雄市前鎮區三多三路217號13樓",
                         "color": "#ffffff",
                         "size": "md",
                         "align": "end",
-                        "contents": []
+                        "contents": [],
+                        "action": {
+                          "type": "postback",
+                          "label": "action",
+                          "data": "maps"
+                        }
                       }
                     ],
                     "flex": 0,

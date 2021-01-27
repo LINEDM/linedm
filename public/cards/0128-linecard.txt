@@ -1,4 +1,4 @@
-{ "size": "giga",
+ {"size": "giga",
   "type": "bubble",
   "body": {
     "type": "box",
@@ -6,10 +6,10 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES.jpg",
+        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES-2.jpg",
         "size": "full",
         "aspectMode": "cover",
-        "aspectRatio": "1:1",
+        "aspectRatio": "2:1",
         "gravity": "center"
       },
       {
@@ -57,6 +57,12 @@
                   {
                     "type": "text",
                     "text": "0973158857",
+                    "color": "#FFFFFF",
+                    "align": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "統編:85536686",
                     "color": "#FFFFFF",
                     "align": "center"
                   }

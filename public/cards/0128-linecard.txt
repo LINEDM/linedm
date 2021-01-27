@@ -1,4 +1,5 @@
  {"size": "giga",
+ {
   "type": "bubble",
   "body": {
     "type": "box",
@@ -6,10 +7,10 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES-3.jpg",
+        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES-4.jpg",
         "size": "full",
         "aspectMode": "fit",
-        "aspectRatio": "9:5",
+        "aspectRatio": "9:6",
         "gravity": "center"
       },
       {
@@ -41,6 +42,13 @@
                 "type": "box",
                 "layout": "horizontal",
                 "contents": [
+                  {
+                    "type": "text",
+                    "size": "lg",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "text": " "
+                  },
                   {
                     "type": "text",
                     "size": "lg",

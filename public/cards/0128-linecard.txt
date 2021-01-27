@@ -6,10 +6,10 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES.png",
+        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES-1.png",
         "size": "full",
         "aspectMode": "cover",
-        "aspectRatio": "90:50",
+        "aspectRatio": "1:1",
         "gravity": "center"
       },
       {
@@ -43,10 +43,10 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "專案經理人 / Brian",
-                    "size": "md",
+                    "text": "專案經理人 / BRIAN",
+                    "size": "xl",
                     "color": "#ffffff",
-                    "weight": "regular",
+                    "weight": "bold",
                     "align": "center"
                   }
                 ]
@@ -58,15 +58,13 @@
                   {
                     "type": "text",
                     "text": "0973158857",
-                    "size": "lg",
-                    "color": "#ffffff",
-                    "weight": "regular",
-                    "align": "center",
+                    "color": "#FFFFFF",
                     "action": {
                       "type": "postback",
                       "label": "action",
-                      "data": "tel"
-                    }
+                      "data": "tle"
+                    },
+                    "align": "center"
                   }
                 ],
                 "spacing": "xs"
@@ -85,7 +83,7 @@
                         "color": "#ffffff",
                         "size": "md",
                         "flex": 0,
-                        "align": "end"
+                        "align": "center"
                       }
                     ],
                     "flex": 0,

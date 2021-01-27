@@ -6,7 +6,7 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES-1.png",
+        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "1:1",

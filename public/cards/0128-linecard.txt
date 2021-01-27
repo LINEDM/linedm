@@ -82,9 +82,9 @@
                     "align": "end",
                     "size": "lg",
                     "action": {
-                      "type": "postback",
-                      "label": "action",
-                      "data": "tle"
+                      "type": "uri",
+                      "label": "tel",
+                      "uri": "tel:+886973158857"
                     }
                   }
                 ],
@@ -112,9 +112,9 @@
                         "align": "end",
                         "contents": [],
                         "action": {
-                          "type": "postback",
-                          "label": "action",
-                          "data": "maps"
+                          "type": "uri",
+                          "label": "maps",
+                          "uri": "https://www.google.com/maps/place/806%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E4%B8%89%E5%A4%9A%E4%B8%89%E8%B7%AF217%E8%99%9F13%E6%A8%93/data=!4m2!3m1!1s0x346e037d77c8b441:0x98f4ba545645f20c?sa=X&ved=2ahUKEwjFlePU3rzuAhWdyosBHcT2BuQQ8gEwAHoECAcQAQ"
                         }
                       }
                     ],

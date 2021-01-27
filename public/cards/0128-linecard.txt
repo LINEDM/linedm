@@ -6,7 +6,7 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES.jpg",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip3.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "1:1",
@@ -43,11 +43,9 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "專案經理人 / BRIAN",
+                    "text": "Brown Grand Hotel",
                     "size": "xl",
-                    "color": "#ffffff",
-                    "weight": "bold",
-                    "align": "center"
+                    "color": "#ffffff"
                   }
                 ]
               },
@@ -56,15 +54,29 @@
                 "layout": "baseline",
                 "contents": [
                   {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                  },
+                  {
+                    "type": "icon",
+                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                  },
+                  {
                     "type": "text",
-                    "text": "0973158857",
-                    "color": "#FFFFFF",
-                    "action": {
-                      "type": "postback",
-                      "label": "action",
-                      "data": "tle"
-                    },
-                    "align": "center"
+                    "text": "4.0",
+                    "color": "#a9a9a9"
                   }
                 ],
                 "spacing": "xs"
@@ -79,11 +91,19 @@
                     "contents": [
                       {
                         "type": "text",
-                        "text": "高雄市前鎮區三多三路217號13樓",
+                        "text": "¥62,000",
                         "color": "#ffffff",
                         "size": "md",
                         "flex": 0,
-                        "align": "center"
+                        "align": "end"
+                      },
+                      {
+                        "type": "text",
+                        "text": "¥82,000",
+                        "color": "#a9a9a9",
+                        "decoration": "line-through",
+                        "size": "sm",
+                        "align": "end"
                       }
                     ],
                     "flex": 0,

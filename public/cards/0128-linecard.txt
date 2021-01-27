@@ -1,4 +1,4 @@
-{
+{ "size": "giga",
   "type": "bubble",
   "body": {
     "type": "box",

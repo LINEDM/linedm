@@ -10,7 +10,7 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://linedm.online/wp-content/uploads/2021/02/20210211-c-1.jpg",
+            "url": "https://linedm.online/wp-content/uploads/2021/02/20210211-c-2.jpg",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -40,7 +40,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "邀請您共同啟動新紀元,共創大同世界",
+                    "text": "啓動世界新紀元，共創夢想新世界",
                     "color": "#333333",
                     "size": "lg",
                     "flex": 0,

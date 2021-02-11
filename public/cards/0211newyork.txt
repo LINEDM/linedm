@@ -83,7 +83,7 @@
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://www.gq.com.tw/fashion/article/tommyhilfiger-cny"
+                          "uri": "https://linedm.online/2021newyork/"
                         }
                       },
                       {

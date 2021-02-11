@@ -29,22 +29,24 @@
                     "text": "願每個美好都與你有關!",
                     "size": "xl",
                     "color": "#ffffff",
-                    "weight": "bold"
+                    "weight": "bold",
+                    "align": "center"
                   }
                 ]
               },
               {
                 "type": "box",
-                "layout": "baseline",
+                "layout": "vertical",
                 "contents": [
                   {
                     "type": "text",
                     "text": "BRIAN祝福你,新的一年有新的成就,平安喜樂!",
                     "color": "#ffffffcc",
                     "decoration": "none",
-                    "gravity": "bottom",
+                    "gravity": "top",
                     "flex": 0,
-                    "size": "sm"
+                    "size": "md",
+                    "align": "center"
                   }
                 ],
                 "spacing": "lg"

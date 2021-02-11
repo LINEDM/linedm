@@ -131,7 +131,7 @@ block script
             vcard: this.vcard,
           }))
           if (_.includes(['bubble', 'carousel'], _.get(msg, 'type'))) {
-            msg = { type: 'flex', altText: '我傳送了一個重要訊息。', contents: msg }
+            msg = { type: 'flex', altText: '我傳送了一個 LINE DM 訊息。', contents: msg }
           }
           if (!_.isArray(msg)) msg = [msg]
           console.log('msg =', JSON.stringify(msg))

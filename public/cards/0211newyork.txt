@@ -83,7 +83,7 @@
                         "action": {
                           "type": "uri",
                           "label": "action",
-                          "uri": "https://linedm.online/2021newyork/"
+                          "uri": "https://liff.line.me/1655661243-n6XDVaPR"
                         }
                       },
                       {

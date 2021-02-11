@@ -1,4 +1,3 @@
-
 {
   "type": "carousel",
   "contents": [
@@ -11,7 +10,7 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip1.jpg",
+            "url": "https://linedm.online/wp-content/uploads/2021/02/20210211-c-1.jpg",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -27,9 +26,9 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "祝福新年大吉大利",
-                    "size": "xl",
-                    "color": "#ffffff",
+                    "text": "世創會祝福您",
+                    "size": "xxl",
+                    "color": "#D9070A",
                     "weight": "bold",
                     "align": "center"
                   }
@@ -41,9 +40,9 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "即將開啟新紀元",
-                    "color": "#ebebeb",
-                    "size": "sm",
+                    "text": "邀請您共同啟動新紀元,共創大同世界",
+                    "color": "#333333",
+                    "size": "lg",
                     "flex": 0,
                     "align": "center"
                   }
@@ -67,7 +66,7 @@
                       {
                         "type": "text",
                         "text": "了解世創會",
-                        "color": "#ffffff",
+                        "color": "#444444",
                         "flex": 0,
                         "offsetTop": "-2px"
                       },
@@ -110,7 +109,7 @@
                       {
                         "type": "text",
                         "text": "分享新年賀卡",
-                        "color": "#ffffff",
+                        "color": "#444444",
                         "flex": 0,
                         "offsetTop": "-2px"
                       },
@@ -129,7 +128,12 @@
                 "spacing": "sm",
                 "borderColor": "#ffffff",
                 "margin": "xxl",
-                "height": "40px"
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://tw.linedm.online/liff-full/share-csv.html?template=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2NhcmRzL3djdWRhLTAyMTEudHh0&csv=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2Nzdi9jaGF0Ym90LXR3LWNvc2N1cC0yMDIwLmNzdg&key=aWQ&value=MQ"
+                }
               }
             ],
             "position": "absolute",

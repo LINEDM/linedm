@@ -79,7 +79,12 @@
                         "text": "開啟賀卡",
                         "color": "#ffffff",
                         "flex": 0,
-                        "offsetTop": "-2px"
+                        "offsetTop": "-2px",
+                        "action": {
+                          "type": "uri",
+                          "label": "action",
+                          "uri": "https://www.gq.com.tw/fashion/article/tommyhilfiger-cny"
+                        }
                       },
                       {
                         "type": "filler"

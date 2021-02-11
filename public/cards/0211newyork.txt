@@ -127,7 +127,7 @@
       "action": {
         "type": "uri",
         "label": "action",
-        "uri": "https://liff.line.me/1655541651-LYAVa4Z5"
+        "uri": "https://liff.line.me/1655661243-n6XDVaPR"
       }
     }
   ]

@@ -10,7 +10,7 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip1.jpg",
+            "url": "https://linedm.online/wp-content/uploads/2021/02/20210211-B.jpg",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
@@ -26,7 +26,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "Brown's T-shirts",
+                    "text": "願每個美好都與你有關!",
                     "size": "xl",
                     "color": "#ffffff",
                     "weight": "bold"
@@ -39,16 +39,9 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "¥35,800",
-                    "color": "#ebebeb",
-                    "size": "sm",
-                    "flex": 0
-                  },
-                  {
-                    "type": "text",
-                    "text": "¥75,000",
+                    "text": "BRIAN祝福你,新的一年有新的成就,平安喜樂!",
                     "color": "#ffffffcc",
-                    "decoration": "line-through",
+                    "decoration": "none",
                     "gravity": "bottom",
                     "flex": 0,
                     "size": "sm"
@@ -71,12 +64,8 @@
                         "type": "filler"
                       },
                       {
-                        "type": "icon",
-                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
-                      },
-                      {
                         "type": "text",
-                        "text": "開啟賀卡",
+                        "text": "開啟LINE賀卡",
                         "color": "#ffffff",
                         "flex": 0,
                         "offsetTop": "-2px",
@@ -108,7 +97,6 @@
             "offsetBottom": "0px",
             "offsetStart": "0px",
             "offsetEnd": "0px",
-            "backgroundColor": "#03303Acc",
             "paddingAll": "20px",
             "paddingTop": "18px"
           },
@@ -118,7 +106,7 @@
             "contents": [
               {
                 "type": "text",
-                "text": "SALE",
+                "text": "2021",
                 "color": "#ffffff",
                 "align": "center",
                 "size": "xs",

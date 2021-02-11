@@ -67,7 +67,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "開啟 LINE DM 賀卡",
+                        "text": "開啟Brian賀卡",
                         "color": "#ffffff",
                         "flex": 0,
                         "offsetTop": "-2px",

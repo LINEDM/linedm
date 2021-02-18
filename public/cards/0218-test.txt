@@ -153,7 +153,7 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip2.jpg",
+            "url": "https://linedm.online/wp-content/uploads/2021/02/clip03.jpg",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",

@@ -25,7 +25,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "馬斯克",
+                    "text": "伊隆·馬斯克",
                     "size": "xl",
                     "color": "#ffffff",
                     "weight": "bold"
@@ -125,7 +125,12 @@
                 "spacing": "sm",
                 "borderColor": "#ffffff",
                 "margin": "xxl",
-                "height": "40px"
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://liff.line.me/1655541651-nQO3pAjv/share-csv.html?template=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2NhcmRzLzAyMTgtdGVzdC50eHQ&csv=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2Nzdi9jaGF0Ym90LXR3LWNvc2N1cC0yMDIwLmNzdg&key=aWQ&value=MQ"
+                }
               }
             ],
             "position": "absolute",
@@ -164,7 +169,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "Cony's T-shirts",
+                    "text": "Elon Musk",
                     "size": "xl",
                     "color": "#ffffff",
                     "weight": "bold"
@@ -177,19 +182,10 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "¥35,800",
+                    "text": "希望人類能透過腦機界面與AI融合",
                     "color": "#ebebeb",
                     "size": "sm",
                     "flex": 0
-                  },
-                  {
-                    "type": "text",
-                    "text": "¥75,000",
-                    "color": "#ffffffcc",
-                    "decoration": "line-through",
-                    "gravity": "bottom",
-                    "flex": 0,
-                    "size": "sm"
                   }
                 ],
                 "spacing": "lg"
@@ -209,12 +205,8 @@
                         "type": "filler"
                       },
                       {
-                        "type": "icon",
-                        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip14.png"
-                      },
-                      {
                         "type": "text",
-                        "text": "Add to cart",
+                        "text": "關於Neuralink服務",
                         "color": "#ffffff",
                         "flex": 0,
                         "offsetTop": "-2px"
@@ -234,7 +226,55 @@
                 "spacing": "sm",
                 "borderColor": "#ffffff",
                 "margin": "xxl",
-                "height": "40px"
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://liff.line.me/1655562423-2x7ywqmw"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "分享名片",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://liff.line.me/1655541651-nQO3pAjv/share-csv.html?template=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2NhcmRzLzAyMTgtdGVzdC50eHQ&csv=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2Nzdi9jaGF0Ym90LXR3LWNvc2N1cC0yMDIwLmNzdg&key=aWQ&value=MQ"
+                }
               }
             ],
             "position": "absolute",
@@ -251,7 +291,7 @@
             "contents": [
               {
                 "type": "text",
-                "text": "SALE",
+                "text": "世創會",
                 "color": "#ffffff",
                 "align": "center",
                 "size": "xs",

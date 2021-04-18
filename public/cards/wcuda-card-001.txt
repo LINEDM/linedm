@@ -22,21 +22,6 @@
             "contents": [
               {
                 "type": "box",
-                "layout": "baseline",
-                "contents": [
-                  {
-                    "type": "text",
-                    "text": "台內團號1090019284號  統編:85536686",
-                    "color": "#666666",
-                    "size": "xs",
-                    "flex": 1,
-                    "align": "center"
-                  }
-                ],
-                "spacing": "lg"
-              },
-              {
-                "type": "box",
                 "layout": "vertical",
                 "contents": [
                   {
@@ -66,10 +51,10 @@
                     "type": "filler"
                   }
                 ],
-                "borderWidth": "1px",
+                "borderWidth": "2px",
                 "cornerRadius": "4px",
                 "spacing": "sm",
-                "borderColor": "#000000",
+                "borderColor": "#34A3DD",
                 "margin": "xxl",
                 "height": "40px"
               }
@@ -87,7 +72,7 @@
             "contents": [
               {
                 "type": "text",
-                "text": "SALE",
+                "text": "世創會",
                 "color": "#ffffff",
                 "align": "center",
                 "size": "xs",
@@ -97,7 +82,7 @@
             "position": "absolute",
             "cornerRadius": "20px",
             "offsetTop": "18px",
-            "backgroundColor": "#ff334b",
+            "backgroundColor": "#34A3DD",
             "offsetStart": "18px",
             "height": "25px",
             "width": "53px"

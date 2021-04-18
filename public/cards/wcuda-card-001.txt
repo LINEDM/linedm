@@ -10,7 +10,7 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://wcuda.org/wp-content/uploads/2021/04/002-br.jpg",
+            "url": "https://wcuda.org/wp-content/uploads/2021/04/003-br.jpg",
             "size": "full",
             "aspectMode": "fit",
             "aspectRatio": "4:3",

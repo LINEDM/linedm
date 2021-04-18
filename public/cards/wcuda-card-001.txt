@@ -64,7 +64,8 @@
                 "flex": 1,
                 "position": "absolute",
                 "width": "150px",
-                "offsetTop": "10px"
+                "offsetTop": "10px",
+                "offsetStart": "10%"
               },
               {
                 "type": "box",
@@ -111,7 +112,7 @@
                 "position": "absolute",
                 "width": "150px",
                 "offsetTop": "10px",
-                "offsetStart": "200px"
+                "offsetEnd": "10%"
               }
             ],
             "position": "absolute",

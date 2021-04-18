@@ -29,7 +29,7 @@
                   },
                   {
                     "type": "box",
-                    "layout": "baseline",
+                    "layout": "vertical",
                     "contents": [
                       {
                         "type": "filler"
@@ -45,10 +45,6 @@
                         "type": "filler"
                       }
                     ],
-                    "spacing": "md",
-                    "margin": "md",
-                    "paddingAll": "none",
-                    "paddingEnd": "none",
                     "alignItems": "center"
                   },
                   {
@@ -76,7 +72,7 @@
                   },
                   {
                     "type": "box",
-                    "layout": "baseline",
+                    "layout": "vertical",
                     "contents": [
                       {
                         "type": "filler"
@@ -92,10 +88,6 @@
                         "type": "filler"
                       }
                     ],
-                    "spacing": "md",
-                    "margin": "md",
-                    "paddingAll": "none",
-                    "paddingEnd": "none",
                     "alignItems": "center"
                   },
                   {

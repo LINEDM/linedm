@@ -14,7 +14,7 @@
             "size": "full",
             "aspectMode": "fit",
             "aspectRatio": "4:3",
-            "gravity": "top"
+            "gravity": "center"
           },
           {
             "type": "box",
@@ -36,8 +36,8 @@
                       },
                       {
                         "type": "text",
-                        "text": "分享名片",
-                        "color": "#000000",
+                        "text": "聯絡與分享",
+                        "color": "#ffffff",
                         "flex": 0,
                         "offsetTop": "-2px"
                       },
@@ -45,47 +45,83 @@
                         "type": "filler"
                       }
                     ],
-                    "spacing": "sm"
+                    "spacing": "md",
+                    "margin": "md",
+                    "paddingAll": "none",
+                    "paddingEnd": "none",
+                    "alignItems": "center"
                   },
                   {
                     "type": "filler"
                   }
                 ],
-                "borderWidth": "2px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
-                "borderColor": "#34A3DD",
-                "margin": "xxl",
-                "height": "40px"
+                "borderWidth": "1px",
+                "cornerRadius": "6px",
+                "spacing": "md",
+                "borderColor": "#ffffff",
+                "margin": "md",
+                "height": "40px",
+                "flex": 1,
+                "position": "absolute",
+                "width": "150px",
+                "offsetTop": "10px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "聯絡與分享",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "md",
+                    "margin": "md",
+                    "paddingAll": "none",
+                    "paddingEnd": "none",
+                    "alignItems": "center"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "6px",
+                "spacing": "md",
+                "borderColor": "#ffffff",
+                "margin": "md",
+                "height": "40px",
+                "flex": 2,
+                "position": "absolute",
+                "width": "150px",
+                "offsetTop": "10px",
+                "offsetStart": "200px"
               }
             ],
             "position": "absolute",
             "offsetBottom": "0px",
             "offsetStart": "0px",
             "offsetEnd": "0px",
-            "paddingAll": "20px",
-            "paddingTop": "18px"
-          },
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "世創會",
-                "color": "#ffffff",
-                "align": "center",
-                "size": "xs",
-                "offsetTop": "3px"
-              }
-            ],
-            "position": "absolute",
-            "cornerRadius": "20px",
-            "offsetTop": "18px",
             "backgroundColor": "#34A3DD",
-            "offsetStart": "18px",
-            "height": "25px",
-            "width": "53px"
+            "paddingAll": "20px",
+            "paddingTop": "18px",
+            "height": "60px"
           }
         ],
         "paddingAll": "0px"

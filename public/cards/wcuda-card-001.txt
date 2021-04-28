@@ -10,7 +10,7 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://wcuda.org/wp-content/uploads/2021/04/002-br.jpg",
+            "url": "https://wcuda.org/wp-content/uploads/2021/04/003-1-br.jpg",
             "size": "full",
             "aspectMode": "fit",
             "aspectRatio": "4:3",
@@ -37,9 +37,8 @@
                       {
                         "type": "text",
                         "text": "分享名片",
-                        "color": "#000000",
-                        "flex": 0,
-                        "offsetTop": "-2px"
+                        "color": "#ffffff",
+                        "flex": 0
                       },
                       {
                         "type": "filler"
@@ -54,7 +53,7 @@
                 "borderWidth": "1px",
                 "cornerRadius": "4px",
                 "spacing": "sm",
-                "borderColor": "#000000",
+                "borderColor": "#ffffff",
                 "margin": "xxl",
                 "height": "40px"
               },
@@ -75,9 +74,8 @@
                       {
                         "type": "text",
                         "text": "聯絡資訊",
-                        "color": "#000000",
-                        "flex": 0,
-                        "offsetTop": "-2px"
+                        "color": "#ffffff",
+                        "flex": 0
                       },
                       {
                         "type": "filler"
@@ -92,7 +90,7 @@
                 "borderWidth": "1px",
                 "cornerRadius": "4px",
                 "spacing": "sm",
-                "borderColor": "#000000",
+                "borderColor": "#ffffff",
                 "margin": "xxl",
                 "height": "40px"
               }

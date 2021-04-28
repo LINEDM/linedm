@@ -51,11 +51,11 @@
                   }
                 ],
                 "borderWidth": "1px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
+                "spacing": "none",
                 "borderColor": "#ffffff",
                 "margin": "xxl",
-                "height": "40px"
+                "height": "40px",
+                "cornerRadius": "5px"
               },
               {
                 "type": "box",
@@ -88,18 +88,18 @@
                   }
                 ],
                 "borderWidth": "1px",
-                "cornerRadius": "4px",
-                "spacing": "sm",
+                "cornerRadius": "5px",
+                "spacing": "none",
                 "borderColor": "#ffffff",
                 "margin": "xxl",
                 "height": "40px"
               }
             ],
             "position": "absolute",
-            "offsetBottom": "0px",
-            "offsetStart": "0px",
-            "offsetEnd": "0px",
-            "paddingAll": "10px",
+            "offsetStart": "5px",
+            "offsetEnd": "5px",
+            "offsetTop": "80%",
+            "offsetBottom": "5px",
             "paddingTop": "10px"
           }
         ],

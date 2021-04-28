@@ -10,15 +10,15 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://wcuda.org/wp-content/uploads/2021/04/003-br.jpg",
+            "url": "https://wcuda.org/wp-content/uploads/2021/04/002-br.jpg",
             "size": "full",
             "aspectMode": "fit",
             "aspectRatio": "4:3",
-            "gravity": "center"
+            "gravity": "top"
           },
           {
             "type": "box",
-            "layout": "vertical",
+            "layout": "horizontal",
             "contents": [
               {
                 "type": "box",
@@ -29,15 +29,15 @@
                   },
                   {
                     "type": "box",
-                    "layout": "vertical",
+                    "layout": "baseline",
                     "contents": [
                       {
                         "type": "filler"
                       },
                       {
                         "type": "text",
-                        "text": "聯絡與分享",
-                        "color": "#ffffff",
+                        "text": "分享名片",
+                        "color": "#000000",
                         "flex": 0,
                         "offsetTop": "-2px"
                       },
@@ -45,23 +45,18 @@
                         "type": "filler"
                       }
                     ],
-                    "alignItems": "center"
+                    "spacing": "sm"
                   },
                   {
                     "type": "filler"
                   }
                 ],
                 "borderWidth": "1px",
-                "cornerRadius": "6px",
-                "spacing": "md",
-                "borderColor": "#ffffff",
-                "margin": "md",
-                "height": "40px",
-                "flex": 1,
-                "position": "absolute",
-                "width": "150px",
-                "offsetTop": "10px",
-                "offsetStart": "10%"
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#000000",
+                "margin": "xxl",
+                "height": "40px"
               },
               {
                 "type": "box",
@@ -72,15 +67,15 @@
                   },
                   {
                     "type": "box",
-                    "layout": "vertical",
+                    "layout": "baseline",
                     "contents": [
                       {
                         "type": "filler"
                       },
                       {
                         "type": "text",
-                        "text": "聯絡與分享",
-                        "color": "#ffffff",
+                        "text": "聯絡資訊",
+                        "color": "#000000",
                         "flex": 0,
                         "offsetTop": "-2px"
                       },
@@ -88,33 +83,26 @@
                         "type": "filler"
                       }
                     ],
-                    "alignItems": "center"
+                    "spacing": "sm"
                   },
                   {
                     "type": "filler"
                   }
                 ],
                 "borderWidth": "1px",
-                "cornerRadius": "6px",
-                "spacing": "md",
-                "borderColor": "#ffffff",
-                "margin": "md",
-                "height": "40px",
-                "flex": 2,
-                "position": "absolute",
-                "width": "150px",
-                "offsetTop": "10px",
-                "offsetEnd": "10%"
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#000000",
+                "margin": "xxl",
+                "height": "40px"
               }
             ],
             "position": "absolute",
             "offsetBottom": "0px",
             "offsetStart": "0px",
             "offsetEnd": "0px",
-            "backgroundColor": "#34A3DD",
-            "paddingAll": "20px",
-            "paddingTop": "18px",
-            "height": "60px"
+            "paddingAll": "10px",
+            "paddingTop": "10px"
           }
         ],
         "paddingAll": "0px"

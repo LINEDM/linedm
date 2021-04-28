@@ -51,11 +51,12 @@
                   }
                 ],
                 "borderWidth": "1px",
-                "spacing": "none",
+                "spacing": "xs",
                 "borderColor": "#ffffff",
                 "margin": "xxl",
                 "height": "40px",
-                "cornerRadius": "5px"
+                "cornerRadius": "5px",
+                "width": "160px"
               },
               {
                 "type": "box",
@@ -89,10 +90,11 @@
                 ],
                 "borderWidth": "1px",
                 "cornerRadius": "5px",
-                "spacing": "none",
+                "spacing": "xs",
                 "borderColor": "#ffffff",
                 "margin": "xxl",
-                "height": "40px"
+                "height": "40px",
+                "width": "160px"
               }
             ],
             "position": "absolute",

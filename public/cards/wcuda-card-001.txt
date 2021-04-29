@@ -45,7 +45,12 @@
         "borderWidth": "1px",
         "cornerRadius": "10px",
         "justifyContent": "center",
-        "paddingAll": "10px"
+        "paddingAll": "10px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://liff.line.me/1655541651-nQO3pAjv/share-csv.html?template=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2NhcmRzL3djdWRhLWNhcmQtMDAxLnR4dA&csv=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2Nzdi9jaGF0Ym90LXR3LWNvc2N1cC0yMDIwLmNzdg&key=aWQ&value=MQ"
+        }
       },
       {
         "type": "separator",
@@ -68,7 +73,12 @@
         "borderWidth": "1px",
         "borderColor": "#ffffff",
         "cornerRadius": "10px",
-        "paddingAll": "10px"
+        "paddingAll": "10px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://liff.line.me/1655562423-NA8n4la4"
+        }
       }
     ],
     "paddingAll": "10px",

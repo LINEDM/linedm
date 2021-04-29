@@ -24,7 +24,7 @@ block content
     #share(v-if="page === 'share'")
       .form-group.my-3
         button.btn.btn-lg.btn-success.btn-block.my-2.d-flex.justify-content-center.align-items-center(type="button", @click="btnShare") #[i.fa.mr-2.fa-share-square-o] 分享好友
-        small.form-text.text-muted 點一下「分享好友」按鈕，可以一次選擇多個好友分享傳單。
+        small.form-text.text-muted 點一下「分享好友」按鈕，可以一次選擇多個好友分享。
       .form-group.my-3
         button.btn.btn-lg.btn-info.btn-block.my-2.d-flex.justify-content-center.align-items-center(type="button", @click="btnSend") #[i.fa.mr-2.fa-paper-plane-o] 直接傳送
         small.form-text.text-muted 點一下「直接傳送」按鈕，可以把傳單直接傳送到聊天室。
@@ -131,7 +131,7 @@ block script
             vcard: this.vcard,
           }))
           if (_.includes(['bubble', 'carousel'], _.get(msg, 'type'))) {
-            msg = { type: 'flex', altText: '我傳送了一個 LINE DM 訊息。', contents: msg }
+            msg = { type: 'flex', altText: '我傳送了一個 LINE 訊息。', contents: msg }
           }
           if (!_.isArray(msg)) msg = [msg]
           console.log('msg =', JSON.stringify(msg))

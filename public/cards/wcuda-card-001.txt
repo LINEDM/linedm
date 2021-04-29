@@ -54,7 +54,8 @@
       },
       {
         "type": "separator",
-        "margin": "lg"
+        "margin": "lg",
+        "color": "#34A3DD"
       },
       {
         "type": "box",

@@ -29,7 +29,7 @@
     "contents": [
       {
         "type": "box",
-        "layout": "horizontal",
+        "layout": "baseline",
         "contents": [
           {
             "type": "text",
@@ -44,7 +44,12 @@
         "borderColor": "#ffffff",
         "borderWidth": "1px",
         "cornerRadius": "10px",
+        "justifyContent": "center",
         "paddingAll": "10px"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
       },
       {
         "type": "box",

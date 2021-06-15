@@ -1,0 +1,71 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://boooand.com/wp-content/uploads/2021/06/br-scaled.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "3:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://boooand.com/wp-content/uploads/2021/06/fb.jpg",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://www.facebook.com/AITYAMA"
+                },
+                "size": "sm"
+              },
+              {
+                "type": "image",
+                "url": "https://boooand.com/wp-content/uploads/2021/06/yt.jpg",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "image",
+                "url": "https://boooand.com/wp-content/uploads/2021/06/web.jpg",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "image",
+                "url": "https://boooand.com/wp-content/uploads/2021/06/form.jpg",
+                "size": "sm"
+              }
+            ],
+            "position": "absolute",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "5px",
+            "paddingTop": "0px",
+            "offsetBottom": "10px"
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "size": "giga"
+    }
+  ]
+}

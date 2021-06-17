@@ -37,7 +37,7 @@
                 "action": {
                   "type": "uri",
                   "label": "action",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://www.youtube.com/watch?v=YKUefQJyF00"
                 }
               },
               {
@@ -47,7 +47,7 @@
                 "action": {
                   "type": "uri",
                   "label": "action",
-                  "uri": "http://linecorp.com/"
+                  "uri": "https://boooand.com/ait/"
                 }
               },
               {
@@ -70,6 +70,32 @@
           }
         ],
         "paddingAll": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://boooand.com/wp-content/uploads/2021/06/sh.jpg",
+            "size": "3xl",
+            "margin": "sm",
+            "align": "center",
+            "gravity": "center"
+          }
+        ],
+        "backgroundColor": "#134E4C",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "offsetTop": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px",
+        "height": "60px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
       }
     }
   ]

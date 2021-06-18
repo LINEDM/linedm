@@ -37,7 +37,7 @@
                 "action": {
                   "type": "uri",
                   "label": "action",
-                  "uri": "https://www.youtube.com/watch?v=YKUefQJyF00"
+                  "uri": "https://www.youtube.com/watch?v=YOC-Joz64PU"
                 }
               },
               {

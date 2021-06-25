@@ -7,10 +7,10 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://boooand.com/wp-content/uploads/2021/06/S__3400071.jpg",
+        "url": "https://boooand.com/wp-content/uploads/2021/06/S__3400071-01.jpg",
         "size": "full",
         "aspectMode": "cover",
-        "aspectRatio": "1:1",
+        "aspectRatio": "1200:1154",
         "gravity": "center"
       },
       {

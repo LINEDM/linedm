@@ -61,7 +61,12 @@
           },
           {
             "type": "image",
-            "url": "https://boooand.com/wp-content/uploads/2021/06/05.jpg"
+            "url": "https://boooand.com/wp-content/uploads/2021/06/05.jpg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.google.com/maps?q=23.026935000000002,120.201081"
+            }
           },
           {
             "type": "image",

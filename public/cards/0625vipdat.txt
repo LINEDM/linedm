@@ -28,7 +28,12 @@
           },
           {
             "type": "image",
-            "url": "https://boooand.com/wp-content/uploads/2021/06/02.jpg"
+            "url": "https://boooand.com/wp-content/uploads/2021/06/02.jpg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "http://linecorp.com/"
+            }
           },
           {
             "type": "image",

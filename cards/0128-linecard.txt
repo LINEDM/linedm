@@ -1,0 +1,146 @@
+ {"size": "giga",
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://linedm.online/wp-content/uploads/2021/01/GEO_WAVES-4.jpg",
+        "size": "full",
+        "aspectMode": "fit",
+        "aspectRatio": "9:6",
+        "gravity": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "position": "absolute",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "endColor": "#00000000",
+          "startColor": "#00000099"
+        },
+        "width": "100%",
+        "height": "40%",
+        "offsetBottom": "0px",
+        "offsetStart": "0px",
+        "offsetEnd": "0px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "lg",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "size": "lg",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "size": "lg",
+                    "color": "#ffffff",
+                    "align": "end",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "專案經理人",
+                    "size": "xs",
+                    "color": "#BBBBBB",
+                    "align": "end"
+                  },
+                  {
+                    "type": "text",
+                    "text": "BRIAN",
+                    "size": "lg",
+                    "color": "#ffffff",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "0973158857",
+                    "color": "#FFFFFF",
+                    "align": "end",
+                    "size": "lg",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "tel:+886973158857"
+                    }
+                  }
+                ],
+                "spacing": "xs"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "統編:85536686",
+                        "color": "#FFFFFF",
+                        "align": "end"
+                      },
+                      {
+                        "type": "text",
+                        "text": "◈高雄市前鎮區三多三路217號13樓",
+                        "color": "#ffffff",
+                        "size": "md",
+                        "align": "end",
+                        "contents": [],
+                        "action": {
+                          "type": "uri",
+                          "label": "action",
+                          "uri": "https://www.google.com/maps/place/806%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E4%B8%89%E5%A4%9A%E4%B8%89%E8%B7%AF217%E8%99%9F13%E6%A8%93/data=!4m2!3m1!1s0x346e037d77c8b441:0x98f4ba545645f20c?sa=X&ved=2ahUKEwjFlePU3rzuAhWdyosBHcT2BuQQ8gEwAHoECAcQAQ"
+                        }
+                      }
+                    ],
+                    "flex": 0,
+                    "spacing": "xl"
+                  }
+                ]
+              }
+            ],
+            "spacing": "xs"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "0px",
+        "offsetStart": "0px",
+        "offsetEnd": "0px",
+        "paddingAll": "20px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}

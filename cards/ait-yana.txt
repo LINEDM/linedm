@@ -1,0 +1,102 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://boooand.com/wp-content/uploads/2021/06/br-scaled.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "3:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://boooand.com/wp-content/uploads/2021/06/fb.jpg",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://www.facebook.com/AITYAMA"
+                },
+                "size": "sm"
+              },
+              {
+                "type": "image",
+                "url": "https://boooand.com/wp-content/uploads/2021/06/yt.jpg",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://youtu.be/-PadGL8_SIY"
+                }
+              },
+              {
+                "type": "image",
+                "url": "https://boooand.com/wp-content/uploads/2021/06/web.jpg",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://boooand.com/ait/"
+                }
+              },
+              {
+                "type": "image",
+                "url": "https://boooand.com/wp-content/uploads/2021/06/form.jpg",
+                "size": "sm",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://boooand.com/ait-yama"
+                }
+              }
+            ],
+            "position": "absolute",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "5px",
+            "paddingTop": "0px",
+            "offsetBottom": "10px"
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://boooand.com/wp-content/uploads/2021/06/sh.jpg",
+            "size": "3xl",
+            "margin": "sm",
+            "align": "center",
+            "gravity": "center"
+          }
+        ],
+        "backgroundColor": "#134E4C",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "offsetTop": "none",
+        "paddingTop": "0px",
+        "paddingBottom": "0px",
+        "height": "60px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://liff.line.me/1655541651-nQO3pAjv/share-csv.html?template=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2NhcmRzL2FpdC15YW5hLnR4dA&csv=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2Nzdi9jaGF0Ym90LXR3LWNvc2N1cC0yMDIwLmNzdg&key=aWQ&value=MQ"
+        }
+      }
+    }
+  ]
+}

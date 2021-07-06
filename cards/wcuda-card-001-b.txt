@@ -1,0 +1,87 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://wcuda.org/wp-content/uploads/2021/05/006-4br.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "4:3",
+        "gravity": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "分享名片",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "md",
+                "align": "center",
+                "weight": "bold",
+                "gravity": "center"
+              }
+            ],
+            "borderColor": "#ffffff",
+            "borderWidth": "1px",
+            "paddingAll": "5px",
+            "cornerRadius": "10px",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://liff.line.me/1655541651-nQO3pAjv/share-csv.html?template=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2NhcmRzL3djdWRhLWNhcmQtMDAxLWIudHh0&csv=aHR0cHM6Ly90dy5saW5lZG0ub25saW5lL2Nzdi9jaGF0Ym90LXR3LWNvc2N1cC0yMDIwLmNzdg&key=aWQ&value=MQ"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "width": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "聯絡資訊",
+                "color": "#ffffff",
+                "margin": "md",
+                "size": "md",
+                "align": "center",
+                "weight": "bold",
+                "gravity": "center"
+              }
+            ],
+            "borderColor": "#ffffff",
+            "borderWidth": "1px",
+            "paddingAll": "5px",
+            "cornerRadius": "10px",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://liff.line.me/1655562423-NA8n4la4"
+            }
+          }
+        ],
+        "offsetBottom": "0px",
+        "offsetStart": "0px",
+        "offsetEnd": "0px",
+        "paddingAll": "10px",
+        "height": "60px",
+        "position": "absolute"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}
